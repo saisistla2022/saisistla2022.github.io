@@ -98,7 +98,7 @@ export default function Home(props) {
                         <p className="text-center font-semibold text-4xl md:text-8xl">Get in touch.</p>
                         <div className="flex flex-col md:flex-row items-center justify-center gap-6 mt-12 md:mt-20">
                             <ContactCard type="email" title="Email" subtext="saisistla2022@outlook.com" link="mailto:saisistla2022@outlook.com" />
-                            <ContactCard type="resume" title="Resume" subtext="Latest Version" link="https://docs.google.com/document/d/1IVdnf2PjPz5uGRJXScdKXcrGLltJ893AVdSBd8Ko4zg/edit?usp=sharing" />
+                            <ContactCard type="resume" title="Resume" subtext="Latest Version" link="https://drive.google.com/file/d/1o9HUtmdP2FsyoB_0jgpqSz96NoYEa_rX/view?usp=sharing" />
                         </div>
                         <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:mt-10 mt-6">
                             <ContactCard type="github" title="GitHub" subtext="github.com/saisistla2022" link="https://github.com/saisistla2022" />
